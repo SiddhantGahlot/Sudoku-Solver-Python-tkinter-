@@ -16,9 +16,9 @@ This project allows you to input a Sudoku puzzle, and with one click, it solves 
 
 ## 📷 Screenshot
 
-<img width="601" height="670" alt="image" src="https://github.com/user-attachments/assets/5ca5da4c-b038-4f32-a961-fab91a6e7877" />
-<img width="610" height="669" alt="Screenshot 2025-09-19 214020" src="https://github.com/user-attachments/assets/1722c184-e43c-4754-a507-90281aafac0b" />
-<img width="615" height="662" alt="Screenshot 2025-09-19 214039" src="https://github.com/user-attachments/assets/709f5762-2a76-48c9-8c73-1c9ee734dabb" />
+<img width="550" height="650" alt="image" src="https://github.com/user-attachments/assets/5ca5da4c-b038-4f32-a961-fab91a6e7877" />
+<img width="550" height="650" alt="Screenshot 2025-09-19 214020" src="https://github.com/user-attachments/assets/1722c184-e43c-4754-a507-90281aafac0b" />
+<img width="550" height="650" alt="Screenshot 2025-09-19 214039" src="https://github.com/user-attachments/assets/709f5762-2a76-48c9-8c73-1c9ee734dabb" />
 
 ---
 
