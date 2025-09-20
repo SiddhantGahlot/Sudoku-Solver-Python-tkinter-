@@ -21,11 +21,15 @@ This project allows you to input a Sudoku puzzle, and with one click, it solves 
     <b>figure 1: Screenshot of Empty Sudoku Grid.</b>
 </p>
 
+--- 
+
 <p align = "center">
     <img width="550" height="650" alt="Screenshot 2025-09-19 214020" src="https://github.com/user-attachments/assets/1722c184-e43c-4754-a507-90281aafac0b" />
     <br>
     <b>figure 2: Screenshot of Sudoku with Problem.</b>
 </p>
+
+---
 
 <p align = "center">
     <img width="550" height="650" alt="Screenshot 2025-09-19 214039" src="https://github.com/user-attachments/assets/709f5762-2a76-48c9-8c73-1c9ee734dabb" />
